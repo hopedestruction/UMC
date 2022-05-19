@@ -2,6 +2,8 @@
 
 UMC (Universal Miner Configurator) is my first project in python, it aims to unify the configuration of the most popular miners to make their configuration most user friendly as possible.
 
+**WARNING. UMC** is currently in Beta, you can find a really limited experience compared to what it will be in the future, keep it in mind.
+
 ## Available Miners Configuration:
 
 [X] nanominer
