@@ -26,6 +26,7 @@ more coins soon
 
 more pools soon
 
+---
 
 I'm working on it! Stay tuned. ⬇️
 
