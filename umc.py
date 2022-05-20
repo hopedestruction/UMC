@@ -19,14 +19,13 @@ def clearterminal():
 
 clearterminal()
 
-version = str("0.0.1 Open Beta")
+version = str("0.13 Open Beta")
 miners = ["nanominer"]
 coins = ["ERG | ERGO"]
 pools = ["Flypool"]
 
 print(" ")
 print("Welcome to UMC (Universal Miner Configurator) version " + version)
-time.sleep(1)
 print("by Hope Destruction")
 time.sleep(1)
 print(" ")
@@ -90,7 +89,7 @@ print("That's it!")
 print(" ")
 time.sleep(1)
 print("The config.ini file has been successfully created in the same place where you ran this program, all you have to do is move it to the directory where you have your miner and execute nanominer.exe")
-time.sleep(3)
+time.sleep(2)
 print(" ")
 print("You can check your mining stats here :) https://ergo.flypool.org/miners/" + address + "/dashboard")
 print(" ")
