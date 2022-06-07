@@ -6,7 +6,7 @@ UMC (Universal Miner Configurator) is my first project in python, it aims to uni
 <br>
 ## Available Miners Configuration:
 
-[X] nanominer
+[✔] nanominer
 
 more miners soon
 
@@ -15,7 +15,7 @@ more miners soon
 
 ## Available Coins to Mine:
 
-[X] ERG / ERGO
+[✔] ERG / ERGO
 
 more coins soon
 
@@ -24,7 +24,7 @@ more coins soon
 
 ## Available Pools:
 
-[X] Flypool
+[✔] Flypool
 
 more pools soon
 <br><br><br><br>
